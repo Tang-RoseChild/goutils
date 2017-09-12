@@ -1,0 +1,19 @@
+{
+	"ImportPath": "github.com/Tang-RoseChild/config",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v74",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/jessevdk/go-flags",
+			"Comment": "v1.3.0-3-g6cf8f02",
+			"Rev": "6cf8f02b4ae8ba723ddc64dcfd403e530c06d927"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Rev": "cd8b52f8269e0feb286dfeef29f8fe4d5b397e0b"
+		}
+	]
+}
